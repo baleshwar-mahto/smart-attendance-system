@@ -1,1 +1,1 @@
-# smart-classroom-attendance
+# Smart Classroom Attendance
