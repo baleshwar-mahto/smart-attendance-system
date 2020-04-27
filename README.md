@@ -13,4 +13,4 @@ Design a small display board for displaying the number of students present durin
 - __Raspberry Pi 3 & camera module__
 - __Arm Compute Library on RPi__
 ---
- ![Screenshot](mtccn_demo.jpg)
+ ![Screenshot](mtcnn.png)
