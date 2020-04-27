@@ -19,3 +19,5 @@ Design a small display board for displaying the number of students present durin
  
  ## Usage on your local machine
  Its fairly simply .Just run the mtcnnLiveVideo.m in your MATLAB .Please ensure that MATLAB Support Package for USB Webcams is installed .
+ 
+ The real challenge here is to deploy the face detection and recognition algorithms on the raspberry pi using arm compute library with opencv in the backend.
