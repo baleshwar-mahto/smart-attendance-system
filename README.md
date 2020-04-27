@@ -13,4 +13,5 @@ Design a small display board for displaying the number of students present durin
 - __Raspberry Pi 3 & camera module__
 - __Arm Compute Library on RPi__
 ---
+## Face detection algorithm - MTCNN in action
  ![Screenshot](mtcnn_action.png)
