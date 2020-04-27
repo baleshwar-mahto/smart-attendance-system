@@ -15,3 +15,4 @@ Design a small display board for displaying the number of students present durin
 ---
 ## Face detection algorithm - MTCNN in action
  ![Screenshot](mtcnn_action.png)
+ The added advantange of MTCNN over some othe traditional face detection algorithm is that it can detect side view faces as well .
