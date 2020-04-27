@@ -7,3 +7,9 @@ This is project is being done as a part of the Hardware Edition of Smart India H
 ## Problem Statement
 - __Classroom Attendance Display__ <br>
 Design a small display board for displaying the number of students present during the first period. The class teacher locks the number and later others teachers can check the display for verification. Design a hardware based solution using CCTV camers that captures entry and exit of students in a class room. Additionally it should have ability to count the number of students in the class periodically.
+---
+## Dependencies
+- __MATLAB__
+- __Raspberry Pi 3 & camera module__
+- __Arm Compute Library on RPi__
+---
