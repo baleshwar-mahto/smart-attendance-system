@@ -2,7 +2,7 @@
 ## Smart India Hackathon 2020 - Hardware Edition
 ---
 ## About
-This is project is being done as a part of the Hardware Edition of Smart India Hackathon 2020 . I am one of the team member of the team " Synapse " . The other team members are T.Purnima ( Team Leader) , Dinesh ,Divyagna , Rachana and G.Sathya . The problem statement was given by Govt. of Sikkim under the technology bucket of Smart Education .
+This is project is being done as a part of the Hardware Edition of Smart India Hackathon 2020([https://www.sih.gov.in/](https://www.sih.gov.in/)). I am one of the team member of the team " Synapse " . The other team members are T.Purnima ( Team Leader) , Dinesh ,Divyagna , Rachana and G.Sathya . The problem statement was given by Govt. of Sikkim under the technology bucket of Smart Education .
 
 ## Problem Statement
 - __Classroom Attendance Display__ <br>
