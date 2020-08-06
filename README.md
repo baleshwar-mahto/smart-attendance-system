@@ -1,4 +1,4 @@
-# Smart Classroom Attendance
+# Smart Attendance System
 ## Smart India Hackathon 2020 - Hardware Edition
 ---
 ## About
