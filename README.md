@@ -26,6 +26,9 @@ Design a small display board for displaying the number of students present durin
  
  ---
 ## For Deploying at the Central University of Karnataka , Kalaburagi  </br>
-[https://www.cuk.ac.in/](https://www.cuk.ac.in/)
+[https://www.cuk.ac.in/](https://www.cuk.ac.in/)  </br>
+ - __Design Constraints__ -
+ Using Open Souce softwares and tools
+
 
 
