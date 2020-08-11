@@ -25,5 +25,7 @@ Design a small display board for displaying the number of students present durin
  The real challenge here is to deploy the face detection and recognition algorithms on the raspberry pi using arm compute library with opencv in the backend.
  
  ---
-## For Deploying at the Central University of Karnataka , Kalaburagi
----
+## For Deploying at the Central University of Karnataka , Kalaburagi  </br>
+[https://www.cuk.ac.in/](https://www.cuk.ac.in/)
+
+
